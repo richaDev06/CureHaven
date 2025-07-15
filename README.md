@@ -1,4 +1,4 @@
-# CureHaven Hospital Website 🏥
+# CureHaven - Hospital Website 🏥
 
 CureHaven is a responsive and feature-rich hospital website designed to offer a seamless experience for patients and healthcare providers. It provides essential information such as services, doctors, facilities, emergency support, and booking appointments – all in one place.
 
